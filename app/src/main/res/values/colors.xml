@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="teal">#7df9ff</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#7229d2</color>
+    <color name="box_yellow">#ffe55c</color>
+    <color name="border_yellow">#ffd700</color>
+    <color name="gblue">#7df9ff</color>
+    <color name="gmag">#945499</color>
+    <color name="b_purple">#5d3fd3</color>
+
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cluebox"
+    android:padding="5dp"
+    >
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="CLUE"
+        android:textColor="@color/black"
+        android:textSize="100sp"
+        android:textStyle="bold"
+        tools:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_constraintEnd_toEndOf="parent"
+        tools:layout_constraintVertical_bias="0.216"
+        tools:layout_constraintStart_toStartOf="parent"
+        tools:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="361dp"
+        tools:layout_editor_absoluteY="-33dp" />
+
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="346dp"
+        android:layout_height="177dp"
+        android:text=""
+        tools:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_constraintEnd_toEndOf="parent"
+        tools:layout_constraintStart_toStartOf="parent"
+        tools:layout_constraintTop_toTopOf="parent"
+        tools:layout_constraintVertical_bias="0.576"
+        tools:layout_editor_absoluteX="339dp"
+        tools:layout_editor_absoluteY="459dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
